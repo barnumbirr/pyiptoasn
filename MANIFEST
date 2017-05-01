@@ -1,0 +1,5 @@
+COPYING
+setup.py
+README.md
+pyiptoasn/core.py
+pyiptoasn/__init__.py
